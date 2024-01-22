@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 22px;
+  padding: 100px 50px 50px;
+}
+
+.user-deets {
+  text-align: left;
+}
+
+.user-deets img {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.user-deets a {
+  text-decoration: none;
+  color: #40a8f3;
+  transition: 0.3s ease color;
+}
+
+.user-deets a:hover {
+  text-decoration: underline;
+}
+
+.user-deets h3 {
+  font-size: 50px;
+  margin: 0 0 20px;
+}
+
+.user-deets strong {
+  display: block;
+  font-size: 14px;
+  opacity: 0.4;
+  margin-bottom: 6px;
+}
+
+.status {
+  line-height: 8px;
+  color: grey;
+  font-weight: bold;
+  font-size: smaller;
+}
+.special {
+  font-weight: bold;
+  color: #023e8a;
+}
+.link {
+  color: #3a86ff;
+  text-decoration: underline;
+}
+.name {
+  color: #0d1b2a;
+}
